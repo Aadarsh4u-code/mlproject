@@ -4,5 +4,6 @@ seaborn
 matplotlib
 scikit-learn
 # catboost>=1.2
+dill
 xgboost
 -e .
